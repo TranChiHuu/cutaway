@@ -1,0 +1,12 @@
+{
+  "name": "tranchihuu",
+  "owner": { "name": "TranChiHuu" },
+  "metadata": { "description": "TranChiHuu's Claude Code plugins." },
+  "plugins": [
+    {
+      "name": "cutaway",
+      "source": "./",
+      "description": "Interactive 3D machine simulators you can take apart."
+    }
+  ]
+}
