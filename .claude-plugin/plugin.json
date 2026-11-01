@@ -1,9 +1,17 @@
 {
   "name": "cutaway",
-  "version": "0.1.0",
   "description": "Turn any machine into an interactive 3D simulator page you can take apart, with live gauges, a button per subsystem, an auto tour, and an optional 60 fps video with a synced score.",
-  "author": { "name": "TranChiHuu", "email": "tranchihuu12.03@gmail.com" },
+  "author": {
+    "name": "TranChiHuu",
+    "email": "tranchihuu12.03@gmail.com"
+  },
   "repository": "https://github.com/TranChiHuu/cutaway",
   "license": "MIT",
-  "keywords": ["3d", "threejs", "simulator", "explainer", "visualization"]
+  "keywords": [
+    "3d",
+    "threejs",
+    "simulator",
+    "explainer",
+    "visualization"
+  ]
 }
